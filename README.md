@@ -1,0 +1,1 @@
+# everyday-jquery-2017
