@@ -1,5 +1,5 @@
 # Course 3/8: jQuery Objects
-YouTube recording: To be added
+YouTube recording: https://youtu.be/NAUSjqGW_nE
 
 
 Useful links:
